@@ -1,0 +1,34 @@
+//
+//  BiliPrefixHeader.pch
+//  BiliBiliDemo
+//
+//  Created by liangbing on 16/8/10.
+//  Copyright © 2016年 liangxianhua. All rights reserved.
+//
+
+#ifndef BiliPrefixHeader_pch
+#define BiliPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "APIHeader.h"
+#import "CommonHeader.h"
+
+//common class
+#import "MyNavController.h"
+#import "XHNavgationController.h"
+
+//tool
+#import "UIColor+ColorHelp.h"
+#import "UIImage+ImageHelp.h"
+#include "Logger.h"
+#import "SkinTool.h"
+#import "XHHttp.h"
+//venders
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <Masonry/Masonry.h>
+#import <JSONModel/JSONModel.h>
+#import <YYKit/YYKit.h>
+#import "YYFPSLabel.h"
+#import "UIImageView+WebCache.h"
+#endif /* BiliPrefixHeader_pch */

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brick_red</key>
+	<dict>
+		<key>textColor</key>
+		<string>F77499</string>
+		<key>backgroundColor</key>
+		<string>FEFAFB</string>
+	</dict>
+	<key>conciseness</key>
+	<dict>
+		<key>textColor</key>
+		<string>727272</string>
+		<key>backgroundColor</key>
+		<string>F4F4F4</string>
+	</dict>
+	<key>sakura_pink</key>
+	<dict>
+		<key>textColor</key>
+		<string>FFFFFF</string>
+		<key>backgroundColor</key>
+		<string>F77499</string>
+	</dict>
+</dict>
+</plist>
